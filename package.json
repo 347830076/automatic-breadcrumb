@@ -56,6 +56,10 @@
     "last 2 versions",
     "not dead"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/347830076/automatic-breadcrumb"
+  },
 
   "license": "MIT"
 }
